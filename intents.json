@@ -2,6 +2,12 @@
     {
         "tag": "greeting",
         "patterns": [
+            "Gaada Gaada Johar",
+            "Ram Ram",
+            "Jai Johar",
+            "Gaada Gaada Johar ga",
+            "Gaada Gaada Johar woh",
+            "Gaada Gaada Johar sangi",
             "Hi",
             "Hello",
             "Hey",
@@ -9,12 +15,117 @@
             "What's up"
         ],
         "responses": [
-            "Hi there",
-            "Hello",
-            "Hey",
-            "I'm fine, thank you",
-            "Nothing much"
+            "Ram Ram",
+            "Jai Johar, Jai Chhattisgarh!!!",
+            "CHHATTISGARHIYA SAB LE BADHIYA!!!",
+            "Hi there Ram Ram",
+            "Hello, Sab Bane Bane ?",
+            "Hey! How can I assist you with Chhattisgarh tourism?",
+            "I'm fine, thank you! Ready to help you explore Chhattisgarh.",
+            "Gaada Gaada Johar sangwari ho.",
+            "Sab Bane Bane sangi." 
         ]
+    },
+    {
+            "tag": "tourist_places",
+            "patterns": [
+                "Tell me about tourist places in Chhattisgarh",
+                "What are the best places to visit?",
+                "Famous tourist spots in Chhattisgarh",
+                "Places to visit",
+                "Recommend some tourist spots"
+            ],
+            "responses": [
+                "Bhilai is the heart of Chhattisgarh it is home to people from various parts of India. It is called as 'Mini - India'. It homes B.S.P - the guiness world rcord holder for rail production.",
+                "Chhattisgarh has amazing places like Chitrakoot Falls, Bastar, and Barnawapara Wildlife Sanctuary.",
+                "You must visit Chitrakoot Falls, often called the 'Niagara of India.'",
+                "Don't miss exploring the ancient caves at Sirpur and the beautiful Kanger Valley National Park.",
+                "Bhoram Dev is also known as 'Khajuraho of Chhattisgarh'.",
+                "Ghata Rani, Jatmai Maata, Bamleshwari Temple, Rajiv Lochan Temple, Bilai Maata are some are some of Tirths."
+            ]
+    },
+    {
+            "tag": "local_food",
+            "patterns": [
+                "What food is famous in Chhattisgarh?",
+                "Tell me about local cuisine",
+                "Popular dishes in Chhattisgarh",
+                "Traditional food of Chhattisgarh",
+                "Local delicacies"
+            ],
+            "responses": [
+                "Bore - Baasi, foremost and most important, is the staple food of Chhattisgarh. It is known as most nutritional food with every nutrients present in single food as approved by global researchers.",
+                "Chhattisgarh is known for dishes like Chila, Faraa, Til Laddu and Dubki Kadhi. Originated from Chhattisgarh.",
+                "Try some authentic Chhattisgarhi dishes like Muthia and Bafauri.",
+                "Try some authentic sweets like Pidhiya, Khurmi, Aeirsa, Gul-Gula Bhajia. You can also try Bataasha and Kheer.",
+                "Try some authentic snacks and foods like Thethri, Kari Laddu, Sohari, Daal Pithi, Bara, Daal Makhni Bukhaara, Pataal Chutney.",
+                "Try some fried items like Libari, Bijaori, different types of Bari."
+            ]
+    },
+    {
+            "tag": "cultural_events",
+            "patterns": [
+                "What are the famous festivals in Chhattisgarh?",
+                "Tell me about cultural events",
+                "Are there any tribal festivals?",
+                "Famous festivals",
+                "Traditional events in Chhattisgarh"
+            ],
+            "responses": [
+                "The Bastar Dussehra is a must-see, lasting for 75 days!",
+                "Rajim Mela is another grand event celebrating spirituality and culture.",
+                "You can also enjoy tribal dance festivals like Karma and Panthi."
+            ]
+    },
+    {
+            "tag": "cultural_events",
+            "patterns": [
+                "What are the famous festivals in Chhattisgarh?",
+                "Tell me about cultural events",
+                "Are there any tribal festivals?",
+                "Famous festivals",
+                "Traditional events in Chhattisgarh"
+            ],
+            "responses": [
+                "The Bastar Dussehra is a must-see, lasting for 75 days!",
+                "Rajim Mela is another grand event celebrating spirituality and culture.",
+                "You can also enjoy tribal dance festivals like Karma and Panthi."
+            ]
+    },
+    {
+            "tag": "festivals",
+            "patterns": [
+                "Tell me about festivals in Chhattisgarh",
+                "What festivals are celebrated in Chhattisgarh?",
+                "Famous festivals of Chhattisgarh",
+                "Cultural festivals in Chhattisgarh",
+                "Which are the major festivals?"
+            ],
+            "responses": [
+                "Chhattisgarh celebrates unique festivals like Bastar Dussehra, a 75-day-long event, and Rajim Kumbh Mela, which attracts spiritual seekers.",
+                "The Hareli festival, celebrated by farmers, marks the start of the sowing season.",
+                "Madai Mela is a popular tribal festival showcasing the traditions and rituals of various communities.",
+                "Bastar Dussehra is the longest festival in India, deeply rooted in tribal customs.",
+                "Teeja Tihaar, Hareli Tihaar, Pora Tihaar, Bailaa Daud, Kamharchath, Raakhi, Bhojali, Dusshera - Diwali, Jethauni, Mandai, Ekaadashi, Bhai Dooj, Holi, Vasantpanchami, Til-Sankrant."
+            ]
+        },
+        {
+            "tag": "dances",
+            "patterns": [
+                "Tell me about traditional dances in Chhattisgarh",
+                "What are the famous dances of Chhattisgarh?",
+                "Traditional dance forms in Chhattisgarh",
+                "Dance culture of Chhattisgarh",
+                "Name some folk dances"
+            ],
+            "responses": [
+                "Chhattisgarh is known for its most prominent and traditional yet energetic folk dances like Pandawaani,Panthi, Khada Naacha, Karma, Raut Naacha, Suva, Saila, Gendi, Kaksaar, Cherchera, Navaarani, Vedamati.",
+                "Chhattisgarh is known for its energetic folk dances like Panthi, Naacha.",
+                "The Karma dance is performed during the Karma festival to honor the Karam tree.",
+                "The Raut Nacha is a vibrant dance performed to celebrate the festival of lights.",
+                "Sua Nacha is a popular tribal dance performed by women, symbolizing love and devotion.",
+                "Chhattisgarh is known for its energetic folk songs like Pandwani, Chandauni, Dholamaaru, Dadariya, Baans Geet."
+            ]
     },
     {
         "tag": "goodbye",
@@ -53,9 +164,9 @@
             "What is your purpose"
         ],
         "responses": [
-            "I am a chatbot",
-            "My purpose is to assist you",
-            "I can answer questions and provide assistance"
+            "I am a chatbot designed for providing information regarding Chhattisgarh.",
+            "My purpose is to assist you on gathering information about Chhattisgarh.",
+            "I can answer questions and provide assistance regarding Chhattisgarh."
         ]
     },
     {
@@ -68,8 +179,8 @@
         ],
         "responses": [
             "Sure, what do you need help with?",
-            "I'm here to help. What's the problem?",
-            "How can I assist you?"
+            "I can assist you with information about Chhattisgarh's tourist spots, food, and cultural events!",
+            "Ask me about places to visit, local cuisine, or festivals in Chhattisgarh."
         ]
     },
     {
